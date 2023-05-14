@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 I'm a UCLA Undergraduate student majoring in Computer Science and Linguistics and minoring in Data Science Engineering. 
+📚 I'm interested in Cloud Computing and Big Data and aspire to work as a Software Engineering with a particular emphasis in that field. 
+
+
+Contact Me
+📫 Email me at tylerduytran@gmail.com
+🤝 Connect with me on LinkedIn
