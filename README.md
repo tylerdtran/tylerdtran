@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I'm a UCLA Undergraduate student majoring in Computer Science and Linguistics and minoring in Data Science Engineering. 
-📚 I'm interested in Cloud Computing and Big Data and aspire to work as a Software Engineering with a particular emphasis in that field. 
+🌱 I am a UCLA Undergraduate student majoring in Computer Science and Linguistics and minoring in Data Science Engineering. 
+📚 I am interested in and hoping to work in the intersection between software engineering, cloud computing and database systems.
 
 
 Contact Me
