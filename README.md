@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 
 # Contact Me
-##
 📫 Email me at tylerduytran@gmail.com
-##
+<br /> 
 🤝 Connect with me on LinkedIn
