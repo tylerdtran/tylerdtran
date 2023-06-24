@@ -14,9 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I am a UCLA Undergraduate student majoring in Computer Science and Linguistics and minoring in Data Science Engineering. 
+🌱 I am a UCLA Undergraduate student majoring in Computer Science and Linguistics, minoring in Data Science Engineering. 
+<br /> 
 📚 I am interested in and hoping to work in the intersection between software engineering, cloud computing and database systems.
 
+Aside from Computer Science, I love playing tennis, going on spontaneous adventures, cooking Asian Food at home, and traveling the world . 
+I have an insatiable desire to learn more about anything and everything in this world. My hope is that through my github repositories you get 
+to see one way I exercise my eagerness to learn. 
 
 # Contact Me
 📫 Email me at tylerduytran@gmail.com
