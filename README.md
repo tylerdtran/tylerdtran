@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 📚 I am interested in and hoping to work in the intersection between software engineering, cloud computing and database systems.
 
 
-Contact Me
+# Contact Me
 📫 Email me at tylerduytran@gmail.com
 🤝 Connect with me on LinkedIn
