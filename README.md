@@ -25,4 +25,4 @@ to see one way I exercise my eagerness to learn.
 # Contact Me
 📫 Email me at tylerduytran@gmail.com
 <br /> 
-🤝 Connect with me on LinkedIn
+🤝 Connect with me on <a href="https://www.linkedin.com/in/tylerdtran/">LinkedIn</a>
