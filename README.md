@@ -2,7 +2,8 @@
 
 - 🌱 I am an undergraduate student majoring in Computer Science, minoring in Linguistics at UCLA.
 - 📚 My passion in technology lies in the intersection between software engineering, cloud computing and database systems.
-- 💻 I was previously a Software Engineering Intern at Meristream, a music industry startup. 
+- 💻 I was previously a Software Engineering Intern at Meristream, a music industry startup.
+- 📰 I am currently a Software Engineering Intern at the Daily Bruin, the student newspaper at the University of California, Los Angeles!
 
 ## Beyond Computer Science
 - 🎾 I love playing tennis, 🌇 going on spontaneous adventures, 🥡 cooking Cantonese Food at home, and ✈️ traveling the world.
