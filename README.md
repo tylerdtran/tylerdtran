@@ -1,4 +1,19 @@
-### Hi there. I'm Tyler Tran👋
+# Hi there. I'm Tyler Tran👋
+
+- 🌱 I am an undergraduate student majoring in Computer Science, minoring in Linguistics at UCLA.
+- 📚 My passion in technology lies in the intersection between software engineering, cloud computing and database systems.
+- 💻 I was previously a Software Engineering Intern at Meristream, a music industry startup. 
+
+## Beyond Computer Science
+- I love playing tennis, going on spontaneous adventures, cooking Cantonese Food at home, and traveling the world.
+
+I have an insatiable desire to learn more about anything and everything in this world. My hope is that through my github repositories you get 
+to see one way I exercise my eagerness to learn. 
+
+## Contact Me
+- 📫 Send me an <a href="mailto:tylerduytran@gmail.com">email</a>
+- 🤝 Connect with me on <a href="https://www.linkedin.com/in/tylerdtran/">LinkedIn</a>
+- 🤓 Visit my <a href="https://www.tylertran.me/"> personal website </a> to learn more about me 
 
 <!--
 **tylerdtran/tylerdtran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,17 +29,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I am an undergraduate student majoring in Computer Science, minoring in Linguistics at UCLA.
-- 📚 I am interested in and hoping to work in the intersection between software engineering, cloud computing and database systems.
-- 💻 I was previously a Software Engineering Intern at Meristream, a music industry startup. 
-
-# Beyond Computer Science
-- I love playing tennis, going on spontaneous adventures, cooking Cantonese Food at home, and traveling the world.
-
-I have an insatiable desire to learn more about anything and everything in this world. My hope is that through my github repositories you get 
-to see one way I exercise my eagerness to learn. 
-
-# Contact Me
-- 📫 Send me an <a href="mailto:tylerduytran@gmail.com">email</a>
-- 🤝 Connect with me on <a href="https://www.linkedin.com/in/tylerdtran/">LinkedIn</a>
-- 🤓 Visit my <a href="https://www.tylertran.me/"> personal website </a> to learn more about me 
