@@ -11,9 +11,9 @@ I have an insatiable desire to learn more about anything and everything in this 
 to see one way I exercise my eagerness to learn. 
 
 ## Contact Me
-- 📫 Send me an <a href="mailto:tylerduytran@gmail.com">email</a>
-- 🤝 Connect with me on <a href="https://www.linkedin.com/in/tylerdtran/">LinkedIn</a>
-- 🤓 Visit my <a href="https://www.tylertran.me/"> personal website </a> to learn more about me 
+- 📫 Send me an <a href="mailto:tylerduytran@gmail.com">email</a>!
+- 🤝 Connect with me on <a href="https://www.linkedin.com/in/tylerdtran/">LinkedIn</a>!
+- 🤓 Visit my <a href="https://www.tylertran.me/">personal website </a> to learn more about me.
 
 <!--
 **tylerdtran/tylerdtran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
