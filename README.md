@@ -5,7 +5,7 @@
 - 💻 I was previously a Software Engineering Intern at Meristream, a music industry startup. 
 
 ## Beyond Computer Science
-- I love playing tennis, going on spontaneous adventures, cooking Cantonese Food at home, and traveling the world.
+- 🎾 I love playing tennis, 🌇 going on spontaneous adventures, 🥡 cooking Cantonese Food at home, and ✈️ traveling the world.
 
 I have an insatiable desire to learn more about anything and everything in this world. My hope is that through my github repositories you get 
 to see one way I exercise my eagerness to learn. 
