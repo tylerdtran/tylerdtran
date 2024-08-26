@@ -3,7 +3,7 @@
 - 🌱 I am an undergraduate student majoring in Computer Science, minoring in Linguistics at UCLA.
 - 📚 My passion in technology lies in the intersection between software engineering, cloud computing and database systems.
 - 📰 I am the Internal Tools Director at the Daily Bruin, the student newspaper at the University of California, Los Angeles!
-- 📺 I am currently interning at Comcast-NBCUniversal as a Software Engineering Intern
+- 📺 I am currently interning at Tesla as a Software Engineering Intern
 
 ## Beyond Computer Science
 - 🎾 I love playing tennis, 🌇 going on spontaneous adventures, 🥡 cooking Cantonese Food at home, and ✈️ traveling the world.
